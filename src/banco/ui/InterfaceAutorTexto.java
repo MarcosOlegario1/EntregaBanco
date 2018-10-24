@@ -5,7 +5,7 @@ import banco.modelo.Autor;
 
 import java.util.List;
 
-class InterfaceAutorTexto extends InterfaceModeloTexto {
+public class InterfaceAutorTexto extends InterfaceModeloTexto {
 
     private AutorDao dao;
 
